@@ -3,6 +3,20 @@
     padding: 0;
 }
 
-navbar{
-    background-color: rgb 70,67,67;
+
+.header
+{
+    background-color: gray;;
+    height: 70px;
+}
+
+.alert-text
+{
+    padding-top: 20px;
+    font-size: 0.7cm;
+    color: azure;
+}
+.test{
+    width: 222px;
+   background-color: red;
 }
